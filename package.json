@@ -1,0 +1,10 @@
+{
+  "name": "wordpress_grunt_stylus_coffee_jade",
+  "version": "1.0.0",
+  "description": "Wordpress with grunt, stylus, coffee, jade",
+  "devDependencies": {
+    "grunt-contrib-stylus": "~1.0.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-coffee": "~0.13.0"
+  }
+}
